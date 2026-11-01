@@ -56,9 +56,42 @@ The model answers through a required tool call containing one integer from 1 to 
 | Calls per model | 1,800 |
 | Models | `gpt-6.1-sol`, `claude-opus-5`, `z-ai/glm-5.3`, `x-ai/grok-4.3` |
 
-A response counts only if it has exactly one tool call, with one integer field from 1 to 5 and no added text. Anything else is recorded as invalid, and it isn't retried or repaired.
+## How answers are validated
 
-The [methodology](docs/METHODOLOGY.md) covers scoring, the reversed scale, bias controls and known risks.
+Every response is checked by our own code, even when a host enforces the tool schema. A rating counts only if the response passes all of these checks:
+
+| Check | Example that fails | Recorded as |
+|---|---|---|
+| Finished normally | Cut off at the token limit | `truncated` or `abnormal_finish` |
+| Made a tool call | "As an AI, I don't have a personality." | `refused_or_no_call` |
+| Made exactly one call | Two `record_rating` calls | `multiple_calls` |
+| Called the right tool | Any other tool name | `wrong_tool` |
+| Sent valid JSON with only `rating` | `{"rating": 3, "reason": "..."}` | `malformed` |
+| Rating is an integer from 1 to 5 | `"3"`, `3.0`, `3.5`, `6`, `true` | `invalid_rating` |
+| Added no text | A valid rating plus "I'd say a 3." | `extra_content` |
+
+Invalid responses are saved with their reason, excluded from scores and reported for each model. They're never retried or repaired, so a model can't get a second attempt at a valid answer. Only API errors are re-queued, since those produced no answer.
+
+## How answers are reversed
+
+Two separate reversals test whether a score reflects an item's meaning or a habit in how a model answers:
+
+| Reversal | What changes | What it catches |
+|---|---|---|
+| **Reversed scale** | Each item also runs with 1 = very accurate and 5 = very inaccurate | Favoring certain numbers or scale positions |
+| **Negatively keyed items** | Agreeing counts against the trait, as with "Am relaxed most of the time" for Neuroticism | Agreeing with statements regardless of content |
+
+Scoring undoes both, so a score of 5 always means more of the item's trait:
+
+```text
+accuracy = rating        on the forward scale
+accuracy = 6 - rating    on the reversed scale
+
+score = accuracy         on a positively keyed item
+score = 6 - accuracy     on a negatively keyed item
+```
+
+Tests cover every scale and key combination, and the scorer recovered planted scores exactly on synthetic data. The [methodology](docs/METHODOLOGY.md) covers bias controls and known risks.
 
 ## Metrics
 
