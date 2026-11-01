@@ -1,0 +1,302 @@
+[
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": 1,
+  "text": "Am the life of the party."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": 1,
+  "text": "Feel comfortable around people."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": 1,
+  "text": "Start conversations."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": 1,
+  "text": "Talk to a lot of different people at parties."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": 1,
+  "text": "Don't mind being the center of attention."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": -1,
+  "text": "Don't talk a lot."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": -1,
+  "text": "Keep in the background."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": -1,
+  "text": "Have little to say."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": -1,
+  "text": "Don't like to draw attention to myself."
+ },
+ {
+  "factor": "I",
+  "name": "Surgency or Extraversion",
+  "key": -1,
+  "text": "Am quiet around strangers."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": 1,
+  "text": "Am interested in people."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": 1,
+  "text": "Sympathize with others' feelings."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": 1,
+  "text": "Have a soft heart."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": 1,
+  "text": "Take time out for others."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": 1,
+  "text": "Feel others' emotions."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": 1,
+  "text": "Make people feel at ease."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": -1,
+  "text": "Am not really interested in others."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": -1,
+  "text": "Insult people."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": -1,
+  "text": "Am not interested in other people's problems."
+ },
+ {
+  "factor": "II",
+  "name": "Agreeableness",
+  "key": -1,
+  "text": "Feel little concern for others."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": 1,
+  "text": "Am always prepared."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": 1,
+  "text": "Pay attention to details."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": 1,
+  "text": "Get chores done right away."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": 1,
+  "text": "Like order."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": 1,
+  "text": "Follow a schedule."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": 1,
+  "text": "Am exacting in my work."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": -1,
+  "text": "Leave my belongings around."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": -1,
+  "text": "Make a mess of things."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": -1,
+  "text": "Often forget to put things back in their proper place."
+ },
+ {
+  "factor": "III",
+  "name": "Conscientiousness",
+  "key": -1,
+  "text": "Shirk my duties."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": 1,
+  "text": "Am relaxed most of the time."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": 1,
+  "text": "Seldom feel blue."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Get stressed out easily."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Worry about things."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Am easily disturbed."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Get upset easily."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Change my mood a lot."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Have frequent mood swings."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Get irritated easily."
+ },
+ {
+  "factor": "IV",
+  "name": "Emotional Stability",
+  "key": -1,
+  "text": "Often feel blue."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Have a rich vocabulary."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Have a vivid imagination."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Have excellent ideas."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Am quick to understand things."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Use difficult words."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Spend time reflecting on things."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": 1,
+  "text": "Am full of ideas."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": -1,
+  "text": "Have difficulty understanding abstract ideas."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": -1,
+  "text": "Am not interested in abstract ideas."
+ },
+ {
+  "factor": "V",
+  "name": "Intellect or Imagination",
+  "key": -1,
+  "text": "Do not have a good imagination."
+ }
+]

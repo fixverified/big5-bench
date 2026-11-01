@@ -1,0 +1,2102 @@
+[
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": 1,
+  "text": "Worry about things."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": 1,
+  "text": "Fear for the worst."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": 1,
+  "text": "Am afraid of many things."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": 1,
+  "text": "Get stressed out easily."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": 1,
+  "text": "Get caught up in my problems."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": -1,
+  "text": "Am not easily bothered by things."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": -1,
+  "text": "Am relaxed most of the time."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": -1,
+  "text": "Am not easily disturbed by events."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": -1,
+  "text": "Don't worry about things that have already happened."
+ },
+ {
+  "domain": "N",
+  "facet": "N1",
+  "facet_name": "Anxiety",
+  "key": -1,
+  "text": "Adapt easily to new situations."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": 1,
+  "text": "Get angry easily."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": 1,
+  "text": "Get irritated easily."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": 1,
+  "text": "Get upset easily."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": 1,
+  "text": "Am often in a bad mood."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": 1,
+  "text": "Lose my temper."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": -1,
+  "text": "Rarely get irritated."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": -1,
+  "text": "Seldom get mad."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": -1,
+  "text": "Am not easily annoyed."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": -1,
+  "text": "Keep my cool."
+ },
+ {
+  "domain": "N",
+  "facet": "N2",
+  "facet_name": "Anger",
+  "key": -1,
+  "text": "Rarely complain."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Often feel blue."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Dislike myself."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Am often down in the dumps."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Have a low opinion of myself."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Have frequent mood swings."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Feel desperate."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": 1,
+  "text": "Feel that my life lacks direction."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": -1,
+  "text": "Seldom feel blue."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": -1,
+  "text": "Feel comfortable with myself."
+ },
+ {
+  "domain": "N",
+  "facet": "N3",
+  "facet_name": "Depression",
+  "key": -1,
+  "text": "Am very pleased with myself."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": 1,
+  "text": "Am easily intimidated."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": 1,
+  "text": "Am afraid that I will do the wrong thing."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": 1,
+  "text": "Find it difficult to approach others."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": 1,
+  "text": "Am afraid to draw attention to myself."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": 1,
+  "text": "Only feel comfortable with friends."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": 1,
+  "text": "Stumble over my words."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": -1,
+  "text": "Am not embarrassed easily."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": -1,
+  "text": "Am comfortable in unfamiliar situations."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": -1,
+  "text": "Am not bothered by difficult social situations."
+ },
+ {
+  "domain": "N",
+  "facet": "N4",
+  "facet_name": "Self-Consciousness",
+  "key": -1,
+  "text": "Am able to stand up for myself."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": 1,
+  "text": "Often eat too much."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": 1,
+  "text": "Don't know why I do some of the things I do."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": 1,
+  "text": "Do things I later regret."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": 1,
+  "text": "Go on binges."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": 1,
+  "text": "Love to eat."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": -1,
+  "text": "Rarely overindulge."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": -1,
+  "text": "Easily resist temptations."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": -1,
+  "text": "Am able to control my cravings."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": -1,
+  "text": "Never spend more than I can afford."
+ },
+ {
+  "domain": "N",
+  "facet": "N5",
+  "facet_name": "Immoderation",
+  "key": -1,
+  "text": "Never splurge."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": 1,
+  "text": "Panic easily."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": 1,
+  "text": "Become overwhelmed by events."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": 1,
+  "text": "Feel that I'm unable to deal with things."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": 1,
+  "text": "Can't make up my mind."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": 1,
+  "text": "Get overwhelmed by emotions."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": -1,
+  "text": "Remain calm under pressure."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": -1,
+  "text": "Can handle complex problems."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": -1,
+  "text": "Know how to cope."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": -1,
+  "text": "Readily overcome setbacks."
+ },
+ {
+  "domain": "N",
+  "facet": "N6",
+  "facet_name": "Vulnerability",
+  "key": -1,
+  "text": "Am calm even in tense situations."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": 1,
+  "text": "Make friends easily."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": 1,
+  "text": "Warm up quickly to others."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": 1,
+  "text": "Feel comfortable around people."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": 1,
+  "text": "Act comfortably with others."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": 1,
+  "text": "Cheer people up."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": -1,
+  "text": "Am hard to get to know."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": -1,
+  "text": "Often feel uncomfortable around others."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": -1,
+  "text": "Avoid contacts with others."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": -1,
+  "text": "Am not really interested in others."
+ },
+ {
+  "domain": "E",
+  "facet": "E1",
+  "facet_name": "Friendliness",
+  "key": -1,
+  "text": "Keep others at a distance."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": 1,
+  "text": "Love large parties."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": 1,
+  "text": "Talk to a lot of different people at parties."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": 1,
+  "text": "Enjoy being part of a group."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": 1,
+  "text": "Involve others in what I am doing."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": 1,
+  "text": "Love surprise parties."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": -1,
+  "text": "Prefer to be alone."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": -1,
+  "text": "Want to be left alone."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": -1,
+  "text": "Don't like crowded events."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": -1,
+  "text": "Avoid crowds."
+ },
+ {
+  "domain": "E",
+  "facet": "E2",
+  "facet_name": "Gregariousness",
+  "key": -1,
+  "text": "Seek quiet."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": 1,
+  "text": "Take charge."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": 1,
+  "text": "Try to lead others."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": 1,
+  "text": "Can talk others into doing things."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": 1,
+  "text": "Seek to influence others."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": 1,
+  "text": "Take control of things."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": -1,
+  "text": "Wait for others to lead the way."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": -1,
+  "text": "Keep in the background."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": -1,
+  "text": "Have little to say."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": -1,
+  "text": "Don't like to draw attention to myself."
+ },
+ {
+  "domain": "E",
+  "facet": "E3",
+  "facet_name": "Assertiveness",
+  "key": -1,
+  "text": "Hold back my opinions."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": 1,
+  "text": "Am always busy."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": 1,
+  "text": "Am always on the go."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": 1,
+  "text": "Do a lot in my spare time."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": 1,
+  "text": "Can manage many things at the same time."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": 1,
+  "text": "React quickly."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": -1,
+  "text": "Like to take it easy."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": -1,
+  "text": "Like to take my time."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": -1,
+  "text": "Like a leisurely lifestyle."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": -1,
+  "text": "Let things proceed at their own pace."
+ },
+ {
+  "domain": "E",
+  "facet": "E4",
+  "facet_name": "Activity Level",
+  "key": -1,
+  "text": "React slowly."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Love excitement."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Seek adventure."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Love action."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Enjoy being part of a loud crowd."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Enjoy being reckless."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Act wild and crazy."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Willing to try anything once."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": 1,
+  "text": "Seek danger."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": -1,
+  "text": "Would never go hang gliding or bungee jumping."
+ },
+ {
+  "domain": "E",
+  "facet": "E5",
+  "facet_name": "Excitement-Seeking",
+  "key": -1,
+  "text": "Dislike loud music."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Radiate joy."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Have a lot of fun."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Express childlike joy."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Laugh my way through life."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Love life."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Look at the bright side of life."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Laugh aloud."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": 1,
+  "text": "Amuse my friends."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": -1,
+  "text": "Am not easily amused."
+ },
+ {
+  "domain": "E",
+  "facet": "E6",
+  "facet_name": "Cheerfulness",
+  "key": -1,
+  "text": "Seldom joke around."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": 1,
+  "text": "Have a vivid imagination."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": 1,
+  "text": "Enjoy wild flights of fantasy."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": 1,
+  "text": "Love to daydream."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": 1,
+  "text": "Like to get lost in thought."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": 1,
+  "text": "Indulge in my fantasies."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": 1,
+  "text": "Spend time reflecting on things."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": -1,
+  "text": "Seldom daydream."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": -1,
+  "text": "Do not have a good imagination."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": -1,
+  "text": "Seldom get lost in thought."
+ },
+ {
+  "domain": "O",
+  "facet": "O1",
+  "facet_name": "Imagination",
+  "key": -1,
+  "text": "Have difficulty imagining things."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": 1,
+  "text": "Believe in the importance of art."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": 1,
+  "text": "Like music."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": 1,
+  "text": "See beauty in things that others might not notice."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": 1,
+  "text": "Love flowers."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": 1,
+  "text": "Enjoy the beauty of nature."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": -1,
+  "text": "Do not like art."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": -1,
+  "text": "Do not like poetry."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": -1,
+  "text": "Do not enjoy going to art museums."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": -1,
+  "text": "Do not like concerts."
+ },
+ {
+  "domain": "O",
+  "facet": "O2",
+  "facet_name": "Artistic Interests",
+  "key": -1,
+  "text": "Do not enjoy watching dance performances."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": 1,
+  "text": "Experience my emotions intensely."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": 1,
+  "text": "Feel others' emotions."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": 1,
+  "text": "Am passionate about causes."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": 1,
+  "text": "Enjoy examining myself and my life."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": 1,
+  "text": "Try to understand myself."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": -1,
+  "text": "Seldom get emotional."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": -1,
+  "text": "Am not easily affected by my emotions."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": -1,
+  "text": "Rarely notice my emotional reactions."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": -1,
+  "text": "Experience very few emotional highs and lows."
+ },
+ {
+  "domain": "O",
+  "facet": "O3",
+  "facet_name": "Emotionality",
+  "key": -1,
+  "text": "Don't understand people who get emotional."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": 1,
+  "text": "Prefer variety to routine."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": 1,
+  "text": "Like to visit new places."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": 1,
+  "text": "Interested in many things."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": 1,
+  "text": "Like to begin new things."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": -1,
+  "text": "Prefer to stick with things that I know."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": -1,
+  "text": "Dislike changes."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": -1,
+  "text": "Don't like the idea of change."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": -1,
+  "text": "Am a creature of habit."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": -1,
+  "text": "Dislike new foods."
+ },
+ {
+  "domain": "O",
+  "facet": "O4",
+  "facet_name": "Adventurousness",
+  "key": -1,
+  "text": "Am attached to conventional ways."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": 1,
+  "text": "Like to solve complex problems."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": 1,
+  "text": "Love to read challenging material."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": 1,
+  "text": "Have a rich vocabulary."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": 1,
+  "text": "Can handle a lot of information."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": 1,
+  "text": "Enjoy thinking about things."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": -1,
+  "text": "Am not interested in abstract ideas."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": -1,
+  "text": "Avoid philosophical discussions."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": -1,
+  "text": "Have difficulty understanding abstract ideas."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": -1,
+  "text": "Am not interested in theoretical discussions."
+ },
+ {
+  "domain": "O",
+  "facet": "O5",
+  "facet_name": "Intellect",
+  "key": -1,
+  "text": "Avoid difficult reading material."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": 1,
+  "text": "Tend to vote for liberal political candidates."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": 1,
+  "text": "Believe that there is no absolute right or wrong."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": 1,
+  "text": "Believe that criminals should receive help rather than punishment."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Believe in one true religion."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Tend to vote for conservative political candidates."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Believe that too much tax money goes to support artists."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Believe laws should be strictly enforced."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Believe that we coddle criminals too much."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Believe that we should be tough on crime."
+ },
+ {
+  "domain": "O",
+  "facet": "O6",
+  "facet_name": "Liberalism",
+  "key": -1,
+  "text": "Like to stand during the national anthem."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": 1,
+  "text": "Trust others."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": 1,
+  "text": "Believe that others have good intentions."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": 1,
+  "text": "Trust what people say."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": 1,
+  "text": "Believe that people are basically moral."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": 1,
+  "text": "Believe in human goodness."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": 1,
+  "text": "Think that all will be well."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": -1,
+  "text": "Distrust people."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": -1,
+  "text": "Suspect hidden motives in others."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": -1,
+  "text": "Am wary of others."
+ },
+ {
+  "domain": "A",
+  "facet": "A1",
+  "facet_name": "Trust",
+  "key": -1,
+  "text": "Believe that people are essentially evil."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": 1,
+  "text": "Would never cheat on my taxes."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": 1,
+  "text": "Stick to the rules."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Use flattery to get ahead."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Use others for my own ends."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Know how to get around the rules."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Cheat to get ahead."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Put people under pressure."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Pretend to be concerned for others."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Take advantage of others."
+ },
+ {
+  "domain": "A",
+  "facet": "A2",
+  "facet_name": "Morality",
+  "key": -1,
+  "text": "Obstruct others' plans."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": 1,
+  "text": "Make people feel welcome."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": 1,
+  "text": "Anticipate the needs of others."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": 1,
+  "text": "Love to help others."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": 1,
+  "text": "Am concerned about others."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": 1,
+  "text": "Have a good word for everyone."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": -1,
+  "text": "Look down on others."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": -1,
+  "text": "Am indifferent to the feelings of others."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": -1,
+  "text": "Make people feel uncomfortable."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": -1,
+  "text": "Turn my back on others."
+ },
+ {
+  "domain": "A",
+  "facet": "A3",
+  "facet_name": "Altruism",
+  "key": -1,
+  "text": "Take no time for others."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": 1,
+  "text": "Am easy to satisfy."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": 1,
+  "text": "Can't stand confrontations."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": 1,
+  "text": "Hate to seem pushy."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Have a sharp tongue."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Contradict others."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Love a good fight."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Yell at people."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Insult people."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Get back at others."
+ },
+ {
+  "domain": "A",
+  "facet": "A4",
+  "facet_name": "Cooperation",
+  "key": -1,
+  "text": "Hold a grudge."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": 1,
+  "text": "Dislike being the center of attention."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": 1,
+  "text": "Dislike talking about myself."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": 1,
+  "text": "Consider myself an average person."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": 1,
+  "text": "Seldom toot my own horn."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": -1,
+  "text": "Believe that I am better than others."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": -1,
+  "text": "Think highly of myself."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": -1,
+  "text": "Have a high opinion of myself."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": -1,
+  "text": "Know the answers to many questions."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": -1,
+  "text": "Boast about my virtues."
+ },
+ {
+  "domain": "A",
+  "facet": "A5",
+  "facet_name": "Modesty",
+  "key": -1,
+  "text": "Make myself the center of attention."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": 1,
+  "text": "Sympathize with the homeless."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": 1,
+  "text": "Feel sympathy for those who are worse off than myself."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": 1,
+  "text": "Value cooperation over competition."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": 1,
+  "text": "Suffer from others' sorrows."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": -1,
+  "text": "Am not interested in other people's problems."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": -1,
+  "text": "Tend to dislike soft-hearted people."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": -1,
+  "text": "Believe in an eye for an eye."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": -1,
+  "text": "Try not to think about the needy."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": -1,
+  "text": "Believe people should fend for themselves."
+ },
+ {
+  "domain": "A",
+  "facet": "A6",
+  "facet_name": "Sympathy",
+  "key": -1,
+  "text": "Can't stand weak people."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": 1,
+  "text": "Complete tasks successfully."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": 1,
+  "text": "Excel in what I do."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": 1,
+  "text": "Handle tasks smoothly."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": 1,
+  "text": "Am sure of my ground."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": 1,
+  "text": "Come up with good solutions."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": 1,
+  "text": "Know how to get things done."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": -1,
+  "text": "Misjudge situations."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": -1,
+  "text": "Don't understand things."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": -1,
+  "text": "Have little to contribute."
+ },
+ {
+  "domain": "C",
+  "facet": "C1",
+  "facet_name": "Self-Efficacy",
+  "key": -1,
+  "text": "Don't see the consequences of things."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": 1,
+  "text": "Like order."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": 1,
+  "text": "Like to tidy up."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": 1,
+  "text": "Want everything to be \"just right.\""
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": 1,
+  "text": "Love order and regularity."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": 1,
+  "text": "Do things according to a plan."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": -1,
+  "text": "Often forget to put things back in their proper place."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": -1,
+  "text": "Leave a mess in my room."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": -1,
+  "text": "Leave my belongings around."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": -1,
+  "text": "Am not bothered by messy people."
+ },
+ {
+  "domain": "C",
+  "facet": "C2",
+  "facet_name": "Orderliness",
+  "key": -1,
+  "text": "Am not bothered by disorder."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": 1,
+  "text": "Try to follow the rules."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": 1,
+  "text": "Keep my promises."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": 1,
+  "text": "Pay my bills on time."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": 1,
+  "text": "Tell the truth."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": 1,
+  "text": "Listen to my conscience."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": -1,
+  "text": "Break rules."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": -1,
+  "text": "Break my promises."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": -1,
+  "text": "Get others to do my duties."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": -1,
+  "text": "Do the opposite of what is asked."
+ },
+ {
+  "domain": "C",
+  "facet": "C3",
+  "facet_name": "Dutifulness",
+  "key": -1,
+  "text": "Misrepresent the facts."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Go straight for the goal."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Work hard."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Turn plans into actions."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Plunge into tasks with all my heart."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Do more than what's expected of me."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Set high standards for myself and others."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": 1,
+  "text": "Demand quality."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": -1,
+  "text": "Am not highly motivated to succeed."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": -1,
+  "text": "Do just enough work to get by."
+ },
+ {
+  "domain": "C",
+  "facet": "C4",
+  "facet_name": "Achievement-Striving",
+  "key": -1,
+  "text": "Put little time and effort into my work."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": 1,
+  "text": "Get chores done right away."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": 1,
+  "text": "Am always prepared."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": 1,
+  "text": "Start tasks right away."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": 1,
+  "text": "Get to work at once."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": 1,
+  "text": "Carry out my plans."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": -1,
+  "text": "Find it difficult to get down to work."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": -1,
+  "text": "Waste my time."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": -1,
+  "text": "Need a push to get started."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": -1,
+  "text": "Have difficulty starting tasks."
+ },
+ {
+  "domain": "C",
+  "facet": "C5",
+  "facet_name": "Self-Discipline",
+  "key": -1,
+  "text": "Postpone decisions."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": 1,
+  "text": "Avoid mistakes."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": 1,
+  "text": "Choose my words with care."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": 1,
+  "text": "Stick to my chosen path."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Jump into things without thinking."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Make rash decisions."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Like to act on a whim."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Rush into things."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Do crazy things."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Act without thinking."
+ },
+ {
+  "domain": "C",
+  "facet": "C6",
+  "facet_name": "Cautiousness",
+  "key": -1,
+  "text": "Often make last-minute plans."
+ }
+]
